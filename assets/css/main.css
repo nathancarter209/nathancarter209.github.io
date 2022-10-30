@@ -638,16 +638,16 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 4px;
-		border: 0;
+		border-radius: 10px;
+		border: 100;
 		display: inline-block;
 		position: relative;
 	}
 
 		.image:before {
 			pointer-events: none;
-			background-image: url("../../images/overlay.png");
-			background-color: rgba(0, 94, 255, 0.5);
+			background-image: url("../../");
+			/* background-color: rgba(0, 94, 255, 0.5); */
 			border-radius: 4px;
 			content: '';
 			display: block;
