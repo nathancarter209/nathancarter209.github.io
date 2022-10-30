@@ -646,8 +646,8 @@ input, select, textarea {
 
 		.image:before {
 			pointer-events: none;
-			/* ackground-image: url("../../images/overlay.png"); */
-			background-color: rgba(231, 234, 239, 0.5);
+			background-image: url("../../images/overlay.png");
+			background-color: rgba(0, 94, 255, 0.5);
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -1159,7 +1159,7 @@ repeat;
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/solid gradient.png");
+			background-image: url("../../images/Screen Shot 2022-10-30 at 7.32.20 PM.png");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
