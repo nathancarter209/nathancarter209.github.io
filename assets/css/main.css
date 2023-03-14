@@ -1154,13 +1154,13 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(1, 8, 17, 0.771), rgba(0, 8, 18, 0.094)), url("../../images/overlay.png");
-			background-size: auto, */
+			background-size: auto, 
 256px 256px;
-			background-position: center,
+			background-position : center,
 center;
-			background-repeat: no-repeat,
+			background-repeat : no-repeat,
 repeat;
-			z-index: 2;
+			z-index : 2;
 		}
 
 		#bg:after {
